@@ -1,0 +1,130 @@
+#body_assign1{
+    background-color: rgb(62, 113, 180);
+}
+#assignment1, #specials, #top, #con{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+#div_ass{
+    width: 1300px;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;   
+    background-color: rgb(60, 111, 177);
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+#div_ass2{
+    width: 230px;
+    float: left;
+    border: 5px solid rgb(60, 111, 177);
+    background-color: rgb(60, 111, 177);
+    color: white;
+    font-size: 20px;
+    display: inline;
+}
+#home{
+    font-size: 80px;
+    color: white;
+    text-align: center;
+}
+#img1{
+    width: 740px;
+    height: 410px;
+    display: block;
+    margin: 0 auto;
+    border-color: rgb(194, 194, 194);
+    border-width: 5px;
+    border-style: solid;
+}
+a:link { color: white; }
+
+/* Home */
+
+#body_home{
+    background-color: rgb(62, 113, 180);
+}
+p{
+    color: white;
+    text-align: center;
+}
+#div_home{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#ul_home{
+    font-size: 15px;
+    margin-left: 20px;
+    color: white;
+}
+#li_home{
+    font-size: 15px;
+    margin-left: 20px;
+    color: white;
+}
+
+/* Specials */
+
+#body_specials, #body_top, #body_con{
+    background-color: rgb(32, 54, 140); 
+}
+
+#poster, #poster2{
+    width: 150px;
+    height: 220px;
+    display: block;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div{
+    margin: auto;
+}
+h2{
+    display: block;
+    margin: 0 auto;
+}
+#li{
+	margin-left: 20px;
+    color: white;
+    font-size: 30px;
+}
+#div_specials, #div_top, #div_con{
+    width: 910px;
+}
+#div_top{
+    margin-top: 70px;
+}
+#div_specials2, #div_top2{
+    border: 1px;
+    width: 410px;
+    height: 500px;
+    float: left;
+    text-align: left;
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+#div_specials2:nth-child(2n-1){
+    clear:left; 
+}
+#div_top2:nth-child(2n-1){
+    clear: left;
+}
+#h2_specials, #h2_top{
+    text-align: center;
+}
+#p_specials, #p_top{
+    background-color:  rgb(32, 54, 140); 
+    width: 100px;
+    height: 20px;
+    text-align: center;
+}
+#body_con, #div_con{
+    text-align: center;
+}
